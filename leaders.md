@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Andrew Ratcliffe](mailto://andrew.ratcliffe@owasp.org)
+* [Paul Booth](mailto://paul.booth@owasp.org)
+* [Ben Slominski](mailto://ben.slominski@owasp.org)
