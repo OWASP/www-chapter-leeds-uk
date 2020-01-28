@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Leeds, Uk
+title: OWASP Leeds, UK
 tags: example-tag
 level: 0
 
