@@ -7,10 +7,13 @@ level: 0
 
 region: Europe
 
-auto-migrated: 0
+<!-- auto-migrated: 0 -->
 
 ---
+## Welcome
+Welcome to the Leeds OWASP chapter. 
 
+## Participation
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
