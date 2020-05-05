@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Leeds, UK
 site_side: true
 tags: leeds
-level: 3
+level: 2
 region: Europe
 currency: gbp
 
@@ -13,8 +13,6 @@ currency: gbp
 OWASP Leeds
 -----------
 Welcome to the Leeds OWASP chapter. Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/) 
-
-
 
 Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/)
 
