@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Leeds, UK
+site_side: true
 tags: leeds
 level: 3
 region: Europe
