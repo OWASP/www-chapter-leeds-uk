@@ -2,19 +2,36 @@
 
 layout: col-sidebar
 title: OWASP Leeds, UK
-tags: example-tag
+tags: leeds
 level: 0
-
 region: Europe
-
-<!-- auto-migrated: 0 -->
+currency: gbp
 
 ---
+
+OWASP Leeds
+-----------
 ## Welcome
-Welcome to the Leeds OWASP chapter. 
+Welcome to the Leeds OWASP chapter. Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/) 
 
 ## Participation
 
+Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/)
+
+Speaking at OWASP London Chapter Events
+---------------------------------------
+
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP London Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+
+`owaspleeds (at) owasp.org`
+
+Next Meeting/Event(s)
+---------------------
+OWASP Leeds Chapter meetings are posted on our MeetUp Page:
+
+Please visit <a href="http://www.meetup.com/OWASP-Leeds-Chapter">http://www.meetup.com/OWASP-Leeds-Chapter</a> for all chapter event information.
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
