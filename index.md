@@ -9,6 +9,7 @@ region: Europe
 currency: gbp
 
 ---
+<!-- rebuild -->
 
 OWASP Leeds
 -----------
