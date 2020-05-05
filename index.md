@@ -12,10 +12,9 @@ currency: gbp
 
 OWASP Leeds
 -----------
-## Welcome
 Welcome to the Leeds OWASP chapter. Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/) 
 
-## Participation
+
 
 Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/)
 
