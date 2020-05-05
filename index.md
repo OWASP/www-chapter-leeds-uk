@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Leeds, UK
 tags: leeds
-level: 2
+level: 3
 region: Europe
 currency: gbp
 
