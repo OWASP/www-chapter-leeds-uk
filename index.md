@@ -15,12 +15,8 @@ OWASP Leeds
 -----------
 Welcome to the Leeds OWASP chapter. Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/) 
 
-Follow chapter news on [Meetup.com](https://www.meetup.com/OWASP-Leeds-Chapter/)
-
 Speaking at OWASP Leeds Chapter Events
 ---------------------------------------
-
-#### Call For Speakers
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Leeds Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
 
