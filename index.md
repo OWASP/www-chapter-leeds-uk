@@ -7,6 +7,9 @@ tags: leeds
 level: 3
 region: Europe
 currency: gbp
+meetup-group: OWASP-Leeds-Chapter
+country: United Kingdom
+postal-code: 
 
 ---
 <!-- rebuild -->
