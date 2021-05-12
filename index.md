@@ -26,7 +26,7 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 Next Meeting/Event(s)
 ---------------------
-OWASP Leeds Chapter meetings are posted on our [MeetUp Page](http://www.meetup.com/OWASP-Leeds-Chapter
+OWASP Leeds Chapter meetings are posted on our [MeetUp Page](http://www.meetup.com/OWASP-Leeds-Chapter)
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
